@@ -8,13 +8,13 @@ global.ytname = "kenzo3146"
 global.socialm = "GitHub: toge012345"
 global.location = "Africa, Gabon, Libreville"
 
-global.ownernumber = '24162266840'  //creator number
+global.ownernumber = '24105544498'  //creator number
 global.ownername = 'OKLMBOY' //owner name
 global.botname = 'OKLMBOY-BUG-𝚅𝟸' //name of the bot
 
 //sticker details
 global.packname = 'OKLMBOY'
-global.author = 'EST LÀ '
+global.author = 'OKLMBOY'
 
 //console view/theme
 global.themeemoji = '👾'
